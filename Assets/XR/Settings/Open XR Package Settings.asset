@@ -470,24 +470,24 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: 
   features:
-  - {fileID: 5396489696222365098}
-  - {fileID: 5184133712267913324}
-  - {fileID: 1444300458190822110}
-  - {fileID: -2299877938857004956}
+  - {fileID: -4867164937809245328}
   - {fileID: -5579704947230959488}
+  - {fileID: 5082050395469398712}
   - {fileID: -5599639509180696041}
   - {fileID: 292805684597663476}
-  - {fileID: -8325988592706312682}
-  - {fileID: -4867164937809245328}
-  - {fileID: 5082050395469398712}
+  - {fileID: -2299877938857004956}
   - {fileID: -8304351422106001744}
   - {fileID: -5757352930750296802}
+  - {fileID: -8325988592706312682}
+  - {fileID: 5396489696222365098}
   - {fileID: 5067450013463144412}
   - {fileID: 2753789940245695675}
   - {fileID: 5507293048178723824}
   - {fileID: 1722423060593717956}
+  - {fileID: 5184133712267913324}
   - {fileID: -3857914422699109675}
   - {fileID: 8296035354670430937}
+  - {fileID: 1444300458190822110}
   m_renderMode: 0
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
@@ -620,7 +620,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5a1f07dc5afe854f9f12a4194aca3fb, type: 3}
   m_Name: WebGL
   m_EditorClassIdentifier: 
-  features: []
+  features:
+  - {fileID: 7636124545697058095}
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
@@ -802,22 +803,22 @@ MonoBehaviour:
   m_Name: Android
   m_EditorClassIdentifier: 
   features:
-  - {fileID: -7391216302820505550}
-  - {fileID: 5841738013111426132}
-  - {fileID: -4433335653627105838}
-  - {fileID: 6920138493878962327}
+  - {fileID: -495261751149285054}
   - {fileID: 3819936892515591474}
+  - {fileID: 4914851518704656994}
   - {fileID: -879356918775107127}
   - {fileID: -6335490953119748628}
-  - {fileID: 2928818391753937765}
-  - {fileID: -6684496497315092126}
-  - {fileID: -495261751149285054}
-  - {fileID: 4914851518704656994}
   - {fileID: 5334558063051258675}
+  - {fileID: -7391216302820505550}
+  - {fileID: 2928818391753937765}
+  - {fileID: 5841738013111426132}
   - {fileID: -6685596103840964779}
+  - {fileID: -6684496497315092126}
   - {fileID: -1732360690052733040}
   - {fileID: -3465257370404214830}
+  - {fileID: -4433335653627105838}
   - {fileID: -2131481153726147014}
+  - {fileID: 6920138493878962327}
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
@@ -858,11 +859,11 @@ MonoBehaviour:
   m_Name: XrPerformanceSettingsFeature WebGL
   m_EditorClassIdentifier: 
   m_enabled: 0
-  nameUi: 
-  version: 
-  featureIdInternal: 
-  openxrExtensionStrings: 
-  company: 
+  nameUi: XR Performance Settings
+  version: 1.0.0
+  featureIdInternal: com.unity.openxr.feature.extension.performance_settings
+  openxrExtensionStrings: XR_EXT_performance_settings
+  company: Unity
   priority: 0
   required: 0
 --- !u!114 &8296035354670430937
