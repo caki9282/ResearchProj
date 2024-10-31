@@ -1903,7 +1903,7 @@ GameObject:
   - component: {fileID: 628145532}
   m_Layer: 0
   m_Name: Sphere (4)
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2236,7 +2236,7 @@ GameObject:
   - component: {fileID: 856616381}
   m_Layer: 0
   m_Name: Sphere (2)
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3689,7 +3689,7 @@ GameObject:
   - component: {fileID: 1562472260}
   m_Layer: 0
   m_Name: Sphere (1)
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5154,7 +5154,7 @@ GameObject:
   - component: {fileID: 2013161998}
   m_Layer: 0
   m_Name: Sphere (3)
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5354,7 +5354,7 @@ GameObject:
   - component: {fileID: 2107282163}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
