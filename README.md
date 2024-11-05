@@ -18,4 +18,48 @@ POST:
 - What felt the most smooth
 - How could I improve these designs to be more accessible
 RESPONSES:
+Swyer
+- Blindness, 
+- Ray cast, direct interaction, Half-life alyx pull.
+- The direct interaction
+
+- The hammer because the dual grip function would not orient correctly once grabbing it with two hands
+- The ray cast grab
+- Being able to switch the wand so that it can pull objects as well as push them.
+
+Nate
+- Lack of physical space,
+- Trigger grab, inner trigger grab, a button grab
+- The side grip feels the most and leaves the most open. 
+
+- The hammer was chosen mainly because the other hand would conflict with the orientation. Plus, you had to grab it with both hands once you grabbed it. 
+- The cube grab and wand felt very natural and smooth
+- The wand would help with accessibility with limited space.
+
+Peter
+- Blindness… motor complications 
+- Vive controller, oculus controller, props
+- Physics interactions that I can interact with, pick up stuff and move it between my hands.
+
+- The Hammer 
+- Cube was the easiest interaction across all the objects the ray casting wasn’t easy to get
+- Don't hold buttons, sticky keys, that can't use their hands something for the look and a big button. 
+
+Carter:
+- The price of it comparative to time of use
+- Full hand tracking stuff like that, a little with a racing sim doesn’t work the greatest.
+- If you have a controller, grabbing objects felt the best in terms of how it would line up.
+
+- The grabbing of the object the way it would align inside your hand.
+- The overall physics when objects were colliding like the hammer and the balls
+- Adjusting the level of sensitivity and range of grabbing objects and movement.
+
+Walker:
+- Weak grip strength elderly people age for younger kids.
+- grabbing , some of the movements were you flick yourself around.
+- Moving in zero gravity, yanking yourself around a space, so sort of grabbing.
+
+- The two handed grip
+- Grabbing from the distance but there was a weird angle to it, and the movement.
+- Assign grabbing buttons to other parts of the controller so that it can be accessible to more people.
 
