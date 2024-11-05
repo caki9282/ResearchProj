@@ -63,3 +63,5 @@ Walker:
 - Grabbing from the distance but there was a weird angle to it, and the movement.
 - Assign grabbing buttons to other parts of the controller so that it can be accessible to more people.
 
+OBSERVATIONS:
+My overall observations from all the testing was 1, definitely test my project before demo day cause that was a hot mess, but also there was a little more polisihing that needed to be done as there were concepts of interactions but due to them being slightly buggy it made it hard for my testers to give a fair testing and review as when something doesn't work the way you want it to it hard for them to judge it and make the correct improvements. Also testing my stuff with the right audicance. because im testing about accessibility I should test it with the correct demographic.
